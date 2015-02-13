@@ -112,6 +112,9 @@ While we're here lets fix the timing problem which can seduce us into reactionar
 
 "Useful software _before_ comprehensive documentation". Right.
 
+
+### Customer collaboration over contract negotiation
+
 We're a commercial company. We have customers. We like to have happy customers. And we don't get them by contract negotiation. We even like to collaborate with them. 
 
 It doesn't even articulate the complexity within a customer organisation: within the customers' departments, their internal politics, their varied opinions. Even within a "customer" organisation, you are in a multi-party world. If you squint, and you are an external agency, and you have a strong product owner in the customer it's close. Maybe it's simply that, actually. maybe it's the sordid commercial accent on customer, and those in that world have a more sophisticated view of what a customer might be than we do. It's that assumption of supplierness where many more business are now than were in 2001 beginning to  understand themselves as software companies: as providers of computerised interfaces to other organisations.
@@ -122,13 +125,15 @@ That said, we'd like you to stick to your "Data contract"  - to the promises mad
 
 ### end heresy
 
-However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Whether they're direct source; by buying your customers' products, or their your customes employees and it's an internal piece of software you're building, they are the source of value for trhe software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
+However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for trhe software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
 It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software.
 
 Our triangle there is between customer - team - user, with those 2 apexes. We find our best work where we're closest to the middle of that triangle.
 
 We value collaborative delivery over contract negotiation. 
+
+### Responding to change over following a plan
 
 
 We _think_ we're agile - are we really? The good news is, most of us are a little agile, of only because when your waterfall process goes wrong - all you have left is ruthless focus on the most important things remaining. Most of us do respond to change, because your functional specification will get ripped up when you can feel the winds of deadline rushing past your ears. That's really interesting to me. I don't know about you, but the moments I loved about software development were the best crunches. Absolutely loved them - with the minor caveat that they break you in the end. So when _I_ heard about agile, I looked at it and thought... "Oh, it's crunches but lots of them, and they're all smaller and so less scary. Ace. Sign me up." Get some feedback that needs a change, have a quick chat, get the change in and tested? Great.
@@ -146,6 +151,9 @@ You have a "definition of done"? You're screwed. Just the word "done". Definitio
 That's it for me. Recognising the absolute inevitability of change, and not just responding to it, but embracing it.
 
 So we'd replace "Responding to" with Embracing", we value "Embracing change over following a plan."
+
+
+### An Ad-hoc manifesto?
 
 Here we are at the end of a journey of sorts.
 
