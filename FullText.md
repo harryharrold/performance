@@ -106,6 +106,7 @@ So, "Useful software over comprehensive documentation". Good.
 
 While we're here lets fix the timing problem which can seduce us into reactionary thoughtcrimes, and at the same time we'll remove the stone under which anti-documentarianism born of laziness can hide.
 
+"Useful software _before_ comprehensive documentation". Right.
 
 We're a commercial company. We have customers. We like to have happy customers. And we don't get them by contract negotiation. We even like to collaborate with them. 
 
@@ -157,4 +158,3 @@ If you can balance those, then you're doing very well indeed.
 And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. But it is wisdom.
 
 
-"Useful software _before_ comprehensive documentation". Right.
