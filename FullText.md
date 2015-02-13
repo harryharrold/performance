@@ -1,4 +1,7 @@
-"Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
+# Agile apocrypha and an ad-hoc manifesto
+
+> "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing
+> agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
 
 Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and heresies, oh the heresies we will show you. actually, you know, there's only one word in there which is actually wrong. "culminates". The fascinating thing about agile, or at least one of the many fascinating things is how many people know so little about it. I/Harry was at a session at Govcamp the other week - nice unconference, strongly recommended, and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile mainfesto. 
 
@@ -10,15 +13,21 @@ I mean, it rocks, it really does. It's ace. You need to go back and read it.
 
 We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really my thing, and we given we disciples promise to question, criticise and iterate we'd be letting the prophets down if we didn't. So here goes.
 
-"Harry and Rupert critically re-examine the agile mainfesto in the light of their working with people “doing agile”, vaguely alluding to the cults, sects and heresies they’ve encountered and mostly dodging the responsibility of formulating a new “ad-hoc” manifesto. Mostly."
+> "Harry and Rupert critically re-examine the agile mainfesto in the light of their working with people “doing agile”,
+> vaguely alluding to the cults, sects and heresies they’ve encountered and mostly dodging the responsibility of formulating
+> a new “ad-hoc” manifesto. Mostly."
 
-"Doctrinal purists are still invited to be appalled."
+One thing we won't change.
+
+> "Doctrinal purists are still invited to be appalled."
+
+## We start.
 
 Manifesto for Agile Software Development
 
-Individuals and interactions over processes and tools
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
+Individuals and interactions over processes and tools  
+Working software over comprehensive documentation  
+Customer collaboration over contract negotiation  
 Responding to change over following a plan
 
 Set that in its history. It is 2001. When people thought of "famous developer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
@@ -32,6 +41,8 @@ Extreme programming was two.
 The Psychology of Computer Programming by Gerald Weinburg was already 30. (His concept of ego-less programming is ace.)
 
 The essay cathedral and bazaar by Eric S. Raymond was four.
+
+## Individuals and interactions over processes and tools
 
 We believe time has moved on since the Manifesto, and that's has made this specific wording less useful, to us at least, than it once was. The difference, we think, here is partly in the mainstreaming of geek culture. 
 
