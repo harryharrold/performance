@@ -1,4 +1,7 @@
-"Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
+# Agile apocrypha and an ad-hoc manifesto
+
+> "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing  
+> agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
 
 Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and heresies, oh the heresies we will show you. actually, you know, there's only one word in there which is actually wrong. "culminates". The fascinating thing about agile, or at least one of the many fascinating things is how many people know so little about it. I/Harry was at a session at Govcamp the other week - nice unconference, strongly recommended, and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile mainfesto. 
 
@@ -10,9 +13,15 @@ I mean, it rocks, it really does. It's ace. You need to go back and read it.
 
 We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really my thing, and we given we disciples promise to question, criticise and iterate we'd be letting the prophets down if we didn't. So here goes.
 
-"Harry and Rupert critically re-examine the agile mainfesto in the light of their working with people “doing agile”, vaguely alluding to the cults, sects and heresies they’ve encountered and mostly dodging the responsibility of formulating a new “ad-hoc” manifesto. Mostly."
+> "Harry and Rupert critically re-examine the agile mainfesto in the light of their working with people “doing agile”,
+> vaguely alluding to the cults, sects and heresies they’ve encountered and mostly dodging the responsibility of formulating
+> a new “ad-hoc” manifesto. Mostly."
 
-"Doctrinal purists are still invited to be appalled."
+One thing we won't change.
+
+> "Doctrinal purists are still invited to be appalled."
+
+## We start.
 
 Manifesto for Agile Software Development
 
