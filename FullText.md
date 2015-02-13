@@ -16,9 +16,9 @@ We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really 
 
 Manifesto for Agile Software Development
 
-Individuals and interactions over processes and tools
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
+Individuals and interactions over processes and tools  
+Working software over comprehensive documentation  
+Customer collaboration over contract negotiation  
 Responding to change over following a plan
 
 Set that in its history. It is 2001. When people thought of "famous developer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
