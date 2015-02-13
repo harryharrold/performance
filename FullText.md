@@ -1,6 +1,6 @@
 # Agile apocrypha and an ad-hoc manifesto
 
-> "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing  
+> "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing
 > agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
 
 Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and heresies, oh the heresies we will show you. actually, you know, there's only one word in there which is actually wrong. "culminates". The fascinating thing about agile, or at least one of the many fascinating things is how many people know so little about it. I/Harry was at a session at Govcamp the other week - nice unconference, strongly recommended, and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile mainfesto. 
