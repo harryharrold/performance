@@ -42,6 +42,8 @@ The Psychology of Computer Programming by Gerald Weinburg was already 30. (His c
 
 The essay cathedral and bazaar by Eric S. Raymond was four.
 
+## Individuals and interactions over processes and tools
+
 We believe time has moved on since the Manifesto, and that's has made this specific wording less useful, to us at least, than it once was. The difference, we think, here is partly in the mainstreaming of geek culture. 
 
 Within the community, there was not the cult of celebrity around developers there is now. The Cathedral and the Bazaar had just been written, remember. There was not so much of a thing as a "rockstar developer".  (It wasn't all bad...) We didn't have so many devs who cultivated a personal brand... Probably because the world wasn't so small... Social media has a lot to answer for.
