@@ -45,19 +45,23 @@ Reducing individuals to slaves, production line workers, call them what you will
 
 But it's our assertion that reducing a team member to an individual does the same. Over-valuing an individual makes it more likely they'll place their own interests over those of the team. Over-valuing any one skill set means valuing the skills of others less. It breeds arrogance, specialisation and kills the chances of change.  Rockstars are poison to teams.
 
-There's an interesting parallel here with external consultants, we think. That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, and do not lend their shoulders to "medial effort", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too.
+There's an interesting parallel here with external consultants, we think. That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too.
 
 Otherwise you lose the team ethos and shared responsibility that makes good software.
 
 ### Heresy: 3 front-end devs, 2 back-end and a delivery manager please. 
 
-You can body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised.
+You can body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised."
+
+A team is not a collection of individuals.
 
 ### end heresy
 
 An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other.
 
-So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
+So we'd replace "Individuals and" with "team" - we value "Teams and interactions over processes and tools"
+
+### Working software over comprehensive documentation
 
 We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
 
