@@ -82,9 +82,17 @@ I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you hav
 
 ### end heresy
 
-So we'd replace "Individuals and" with "team" - we value "Teams and interactions over processes and tools"
+We have, however, come to value processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy.
 
-### Working software over comprehensive documentation
+### heresy
+
+Have any of you ever seen a post-it note leaving the office on someone's shoe?
+
+### end heresy
+
+* So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
+
+## Working software over comprehensive documentation
 
 We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
 
@@ -131,10 +139,10 @@ So, "Useful software over comprehensive documentation". Good.
 
 While we're here lets fix the timing problem which can seduce us into reactionary thoughtcrimes, and at the same time we'll remove the stone under which anti-documentarianism born of laziness can hide.
 
-"Useful software _before_ comprehensive documentation". Right.
+* "Useful software _before_ comprehensive documentation". Right.
 
 
-### Customer collaboration over contract negotiation
+## Customer collaboration over contract negotiation
 
 We're a commercial company. We have customers. We like to have happy customers. And we don't get them by contract negotiation. We even like to collaborate with them. 
 
@@ -188,6 +196,13 @@ That's it for me. Recognising the absolute inevitability of change, and not just
 Here we are at the end of a journey of sorts.
 
 We aimed at a new manifesto, we aimed to poke fun at sects and heretics and the fuddy-duddy aged, the set in their ways, the defenders of cant and ossifised process masquerading as agility. But... We were missing the point. The Cargo Cultists. And we have done that a little. However, when we critically examined the original doctrine, we found what we had expected to rail against become ethereal, as our solid complaints turned out to be windmills made of fog. What we actually found is that try as you might: it's a damned good thing, is the Agile Manifesto. Maybe a tweak or two. Or four, as we've tried for for reasons of neatness really. Oh, and cheap rhetorical flourish, of course. 
+
+A manifesto for our software development.
+
+* Team interactions over processes and tools
+* Useful software _before_ comprehensive documentation
+* Collaborative delivery over contract negotiation. 
+* Embracing change over following a plan.
 
 If we have any wisdom at all, any slight heresy to proclaim as new orthodoxy, then it is this:
 
