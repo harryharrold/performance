@@ -34,7 +34,13 @@ Set that in its history. It is 2001. When people thought of "famous developer", 
 
 What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile mainfesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
-Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7. Before then it was "rugby", and oh lord is that better...)
+Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7. B
+
+### Heresy
+
+I've always thought scrum was a lousy metaphor. A "scrum" is two packs colliding and attempting to push each other backwards. Turns out before then it was "rugby", and oh lord is that better...
+
+### end heresy
 
 Extreme programming was two.
 
@@ -56,19 +62,25 @@ Reducing individuals to slaves, production line workers, call them what you will
 
 But it's our assertion that reducing a team member to an individual does the same. Over-valuing an individual makes it more likely they'll place their own interests over those of the team. Over-valuing any one skill set means valuing the skills of others less. It breeds arrogance, specialisation and kills the chances of change.  Rockstars are poison to teams.
 
-There's an interesting parallel here with external consultants, we think. That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too.
+There's an interesting parallel here with external consultants, we think, valued for their specific skills, not for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
 
 Otherwise you lose the team ethos and shared responsibility that makes good software.
 
 ### Heresy: 3 front-end devs, 2 back-end and a delivery manager please. 
 
-You can body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised."
+You can body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised."
 
 A team is not a collection of individuals.
 
 ### end heresy
 
-An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other.
+An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communciations that intermediate such that nobody gives their anyone their full attention. Keeping that team ehtos together when you're remote is difficult, but it's not impossible. It's hindered by pointless adherence to process too. 
+
+### heresy
+
+I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know waht you are doiong, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know.
+
+### end heresy
 
 So we'd replace "Individuals and" with "team" - we value "Teams and interactions over processes and tools"
 
@@ -113,9 +125,7 @@ It is worth recalling here that we are reading a manifesto. A properly politcal 
 
 "In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
 
-    As a <user type>, I want <function> so that <benefit> . AMEN
-
-" (Anonymous sage 2015)
+    As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)
 
 So, "Useful software over comprehensive documentation". Good.
 
