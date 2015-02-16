@@ -34,7 +34,7 @@ Set that in its history. It is 2001. When people thought of "famous developer", 
 
 What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile mainfesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
-Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7. B
+Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7.)
 
 ### Heresy
 
@@ -152,10 +152,19 @@ It's not that we _don't_ value collaboration with the customer, and we absolutel
 
 Our triangle there is between customer - team - user, with those 2 apexes. We find our best work where we're closest to the middle of that triangle.
 
-We value collaborative delivery over contract negotiation. 
+* We value collaborative delivery over contract negotiation. 
 
-### Responding to change over following a plan
+## Responding to change over following a plan
 
+Following. Not "being enslaved by..."  or "adhering to in the face of all rational evidence to the contrary", or, indeed "having any semblance of"...
+
+### Heresy
+
+We don't need a plan. We're agile.
+
+You are giving us a bad name. :-) Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right.
+
+### end heresy
 
 We _think_ we're agile - are we really? The good news is, most of us are a little agile, of only because when your waterfall process goes wrong - all you have left is ruthless focus on the most important things remaining. Most of us do respond to change, because your functional specification will get ripped up when you can feel the winds of deadline rushing past your ears. That's really interesting to me. I don't know about you, but the moments I loved about software development were the best crunches. Absolutely loved them - with the minor caveat that they break you in the end. So when _I_ heard about agile, I looked at it and thought... "Oh, it's crunches but lots of them, and they're all smaller and so less scary. Ace. Sign me up." Get some feedback that needs a change, have a quick chat, get the change in and tested? Great.
 
@@ -171,7 +180,7 @@ You have a "definition of done"? You're screwed. Just the word "done". Definitio
 
 That's it for me. Recognising the absolute inevitability of change, and not just responding to it, but embracing it.
 
-So we'd replace "Responding to" with Embracing", we value "Embracing change over following a plan."
+* We'd replace "Responding to" with "Embracing", we value "Embracing change over following a plan."
 
 
 ### An Ad-hoc manifesto?
