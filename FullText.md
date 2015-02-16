@@ -34,7 +34,13 @@ Set that in its history. It is 2001. When people thought of "famous developer", 
 
 What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile mainfesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
-Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7. Before then it was "rugby", and oh lord is that better...)
+Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7. B
+
+### Heresy
+
+I've always thought scrum was a lousy metaphor. A "scrum" is two packs colliding and attempting to push each other backwards. Turns out before then it was "rugby", and oh lord is that better...
+
+### end heresy
 
 Extreme programming was two.
 
