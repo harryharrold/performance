@@ -7,9 +7,7 @@ Yeah. Seemed like a great precis for a keynote did that, six months or so ago. A
 
 So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
-Image: https://www.flickr.com/photos/stavos52093/12798129015 - awesome.
-
-The agile mainfesto is awesome.
+The agile mainfesto rocks.
 
 Image: https://www.flickr.com/photos/songzhen/8100209478 or https://www.flickr.com/photos/markow76/15575226235 - a rock band.
 
@@ -104,7 +102,7 @@ An agile team is inter-disciplinary team made out of specialists who have respec
 
 ### heresy
 
-Image: https://www.flickr.com/photos/kwl/4678498113 shouting. 
+
 
 I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know waht you are doiong, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know.
 
@@ -114,7 +112,7 @@ We have, however, come to value processes and tools. Not the heavy-weight UML mo
 
 ### heresy
 
-Image: https://www.flickr.com/photos/si-mocs/6291267341
+Image: https://www.flickr.com/photos/si-mocs/6291267341 - another witch burning
 
 This will have me burnt. 
 
@@ -151,7 +149,7 @@ Here's a situation:
 
 There's a feature, and it has a user story, in the conversations which formed the user story folk were exemplary in not smuggling implementation instructions into it. The story looks good, resilient. It captures a user need, and couples it to a business objective - most people who read it understand it and can immediately suggest a couple of different ways to fulfil it. Perfect.
 
-Image: Image: https://www.flickr.com/photos/dunechaser/567753250 Einstein writes a user story. It's got acceptance criteria.
+Image: https://www.flickr.com/photos/dunechaser/567753250 Einstein writes a user story. It's got acceptance criteria.
 
 At this point someone remembers to add some acceptance criteria, or a definition of done, or somesuch. There's an obvious moment of danger here, the story wasn't prescriptive, but it is much easier for prescriptions to creep into acceptance criteria. But it might be that adding the acceptance criteria at all was the danger. It is hard to write good user stories; writing good acceptance criteria is harder still, since they approach functional specification - which as we all know exists in a quantum state fluctuating between impossibility and futility.
 
@@ -161,13 +159,11 @@ Later some testing gets done. And the feature doesn't pass for all sorts of reas
 
 So how many things are wrong in this picture?
 
-Image: https://www.flickr.com/photos/bobsfever/7278423788 Instruction. By the Emporer, as it happens.
+Image: https://www.flickr.com/photos/bobsfever/7278423788 Instruction. By the Emperor, as it happens.
 
 What is happening here is a fine example of ritualized "agile" ceremonial.
 
 Envisioning an end state, in this case in the form of acceptance criteria, has contributed this team's return to the false comfort of counter-revolutionary departmentalism. Within the lifespan of this user story there has been a reconstruction of the old scheme -  requirements were gathered, a plan was made (which would have looked very old fashioned if we'd not been distracted by the fact that it omitted every thing between A and Z) and then the work was pushed from analysis, to development to test in a micro-re-enactment of the broken waterfall sausage-factory. The development of the software was driven by documentation... just incomplete documentation.
-
-
 
 Image: https://www.flickr.com/photos/atin800/5196920800 - best waterfall I can find.
 
@@ -214,7 +210,7 @@ Our triangle there is between customer - team - user, with those 2 apexes. We fi
 
 ## Responding to change over following a plan
 
-Image: a plan.
+Image: https://www.flickr.com/photos/stevedave/4153323914/ A pirate follows a map, which is a bit like a plan.
 
 Following. Not "being enslaved by..."  or "adhering to in the face of all rational evidence to the contrary", or, indeed "having any semblance of"...
 
@@ -240,7 +236,7 @@ Those conversations that aren't. The ones that leave "agile" as a fractal versio
 
 Taken to a conclusion - Agile is constant upheaval. It's just not good enough to just respond to change, you have to bring it on yourself. 
 
-Image: change. Good luck.
+Image: https://www.flickr.com/photos/kwl/4678498113 change can be worrying. 
 
 You have a "definition of done"? You're screwed. Just the word "done". Definition of done limits continual improvement that makes great software (And I nearly wrote great user experience there...) . You are never done. You've just shipped today's best guess, well tested. (You did test everything you shipped, right?) Look, if you want to be "done" have you considered an alternative career? Cabinet maker, maybe? Or possibly a different century? Find a better word for done.
 
@@ -253,7 +249,7 @@ That's it for me. Recognising the absolute inevitability of change, and not just
 
 Here we are at the end of a journey of sorts.
 
-Image: Journey's end. Arrival.
+Image: https://www.flickr.com/photos/blackzack00/14626340083 - Darth Vader relaxing on a sofa.
 
 We aimed at a new manifesto, we aimed to poke fun at sects and heretics and the fuddy-duddy aged, the set in their ways, the defenders of cant and ossifised process masquerading as agility. The Cargo Cultists. And we have done that a little. But... We were missing the point. When we critically examined the original doctrine, we found what we had expected to rail against just wasn't there. Our solid complaints turned out to be our misconceptions. Damnit, I might even get me one of theose scrum mast er certificates. What we actually found is that try as you might: it's a damned good thing, is the Agile Manifesto. Maybe a tweak or two. Or four, as we've tried for for reasons of neatness really. Oh, and cheap rhetorical flourish, of course. But it's a damned good thing, and if you check back against it often, you'll be OK.
 
@@ -270,10 +266,12 @@ Image: https://www.flickr.com/photos/pasukaru76/4368389868 - clone in chains.
 
 Retain humanity (Remember not to swop the tyranny of process, for the tyranny of individualism.)
 
+Image: https://www.flickr.com/photos/stavos52093/12798129015 - everything is awesome.
+
 Distribute power, don't re-position it. (Remember you serve your software's users as well as your customer... remember you are part of a team, you are not a rockstar.)
 
 If you can balance those, then you're doing very well indeed.
 
-And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. But it is wisdom.
+And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. What it is, is wisdom.
 
 
