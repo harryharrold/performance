@@ -66,7 +66,7 @@ The essay cathedral and bazaar by Eric S. Raymond was four.
 
 ## Individuals and interactions over processes and tools
 
-Image: Clone army.
+Image: https://www.flickr.com/photos/pasukaru76/4368389868
 
 We believe time has moved on since the Manifesto, and that's has made this specific wording less useful, to us at least, than it once was. The difference, we think, here is partly in the mainstreaming of geek culture. 
 
@@ -80,7 +80,9 @@ Reducing individuals to slaves, production line workers, call them what you will
 
 But it's our assertion that reducing a team member to an individual does the same. Over-valuing an individual makes it more likely they'll place their own interests over those of the team. Over-valuing any one skill set means valuing the skills of others less. It breeds arrogance, specialisation and kills the chances of change.  Rockstars are poison to teams.
 
-Image: Rock star? Han Solo?
+Image: https://www.flickr.com/photos/dunechaser/567753250
+
+Yes, even Einstein.
 
 There's an interesting parallel here with external consultants, we think, valued for their specific skills, not for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
 
@@ -118,7 +120,7 @@ Have any of you ever seen a post-it note leaving the office on someone's shoe?
 
 ## Working software over comprehensive documentation
 
-Image: A complex machine? Or a mechanic?
+Image: https://www.flickr.com/photos/33774513@N08/4335376117 - a library...
 
 We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
 
@@ -129,6 +131,8 @@ Let's hurry past the minor sins of omission justified by misreadings of this art
 Let's focus instead on "Working Software".
 
 Deciding whether a piece of software is working or not turns out to be a really problematic area...
+
+Image: A complex machine? Or a mechanic?
 
   * If you're building a client for an api which doesn't yet exist can you say it is working?
   * If your approach was wrong and you've built an implementation which you intend to discard is that working?
