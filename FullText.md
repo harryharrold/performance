@@ -7,9 +7,11 @@ Yeah. Seemed like a great precis for a keynote did that, six months or so ago. A
 
 So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
-Image: https://www.flickr.com/photos/songzhen/8100209478 or https://www.flickr.com/photos/markow76/15575226235 - a rock band.
+Image: https://www.flickr.com/photos/stavos52093/12798129015 - awesome.
 
-The agile mainfesto rocks.
+The agile mainfesto is awesome.
+
+Image: https://www.flickr.com/photos/songzhen/8100209478 or https://www.flickr.com/photos/markow76/15575226235 - a rock band.
 
 I mean, it rocks, it really does. It's ace. You need to go back and read it. 
 
@@ -46,7 +48,7 @@ Set that in its history. It is 2001. When people thought of "famous software eng
 
 What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile mainfesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
-Image: Text?
+Image: https://www.flickr.com/photos/33774513@N08/4335376117 - Text? A library.
 
 Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7.)
 
@@ -124,7 +126,7 @@ This will have me burnt.
 
 ## Working software over comprehensive documentation
 
-Image: https://www.flickr.com/photos/33774513@N08/4335376117 - a library...
+Image: https://www.flickr.com/photos/33774513@N08/4335376117 - someone making something work...
 
 We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
 
@@ -200,7 +202,7 @@ That said, we'd like you to stick to your "Data contract"  - to the promises mad
 
 ### end heresy
 
-However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for trhe software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
+However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
 Image: https://www.flickr.com/photos/comedynose/16094729617 - happy people
 
