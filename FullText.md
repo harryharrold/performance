@@ -7,7 +7,7 @@ Yeah. Seemed like a great precis for a keynote did that, six months or so ago. A
 
 So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
-Image: rock band?
+Image: https://www.flickr.com/photos/songzhen/8100209478 or https://www.flickr.com/photos/markow76/15575226235 - a rock band.
 
 The agile mainfesto rocks.
 
@@ -40,9 +40,9 @@ Working software over comprehensive documentation
 Customer collaboration over contract negotiation  
 Responding to change over following a plan
 
-Set that in its history. It is 2001. When people thought of "famous developer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
+Image: https://www.flickr.com/photos/brickresort/6833649749 - it's an engineer. IT is happening.
 
-Image: IT happening.
+Set that in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
 
 What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile mainfesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
@@ -80,9 +80,7 @@ Reducing individuals to slaves, production line workers, call them what you will
 
 But it's our assertion that reducing a team member to an individual does the same. Over-valuing an individual makes it more likely they'll place their own interests over those of the team. Over-valuing any one skill set means valuing the skills of others less. It breeds arrogance, specialisation and kills the chances of change.  Rockstars are poison to teams.
 
-Image: https://www.flickr.com/photos/dunechaser/567753250
-
-Yes, even Einstein.
+Image: https://www.flickr.com/photos/apocalust/5157001040 - Prince.
 
 There's an interesting parallel here with external consultants, we think, valued for their specific skills, not for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
 
@@ -114,7 +112,11 @@ We have, however, come to value processes and tools. Not the heavy-weight UML mo
 
 ### heresy
 
-Have any of you ever seen a post-it note leaving the office on someone's shoe?
+Image: https://www.flickr.com/photos/si-mocs/6291267341
+
+This will have me burnt. 
+
+...have any of you ever seen a post-it note leaving the office on someone's shoe?
 
 ### end heresy
 
@@ -145,9 +147,9 @@ Sometimes attempts to control the definition of "Working Software" can be surpri
 
 Here's a situation:
 
-Image: A story. Somehow.
-
 There's a feature, and it has a user story, in the conversations which formed the user story folk were exemplary in not smuggling implementation instructions into it. The story looks good, resilient. It captures a user need, and couples it to a business objective - most people who read it understand it and can immediately suggest a couple of different ways to fulfil it. Perfect.
+
+Image: Image: https://www.flickr.com/photos/dunechaser/567753250 Einstein writes a user story. It's got acceptance criteria.
 
 At this point someone remembers to add some acceptance criteria, or a definition of done, or somesuch. There's an obvious moment of danger here, the story wasn't prescriptive, but it is much easier for prescriptions to creep into acceptance criteria. But it might be that adding the acceptance criteria at all was the danger. It is hard to write good user stories; writing good acceptance criteria is harder still, since they approach functional specification - which as we all know exists in a quantum state fluctuating between impossibility and futility.
 
@@ -155,9 +157,9 @@ Next off some development gets done, some snags arise, approaches are attempted 
 
 Later some testing gets done. And the feature doesn't pass for all sorts of reasons. Some of which are that the acceptance criteria have failed to keep pace with the rate of change in the approach to delivering the story.
 
-Image: Books, reading, process
-
 So how many things are wrong in this picture?
+
+Image: https://www.flickr.com/photos/bobsfever/7278423788 Instruction. By the Emporer, as it happens.
 
 What is happening here is a fine example of ritualized "agile" ceremonial.
 
@@ -186,7 +188,7 @@ While we're here lets fix the timing problem which can seduce us into reactionar
 
 ## Customer collaboration over contract negotiation
 
-Image: document being negotiated. or something.
+Image: https://www.flickr.com/photos/hoyvinmayvin/5873697252 - a meeting gone bad, document being negotiated.
 
 We're a commercial company. We have customers. We like to have happy customers. And we don't get them by contract negotiation. We even like to collaborate with them. 
 
@@ -200,7 +202,7 @@ That said, we'd like you to stick to your "Data contract"  - to the promises mad
 
 However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for trhe software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
-Image: happy people
+Image: https://www.flickr.com/photos/comedynose/16094729617 - happy people
 
 It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software.
 
