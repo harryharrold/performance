@@ -70,21 +70,23 @@ Image: https://www.flickr.com/photos/gratapictures/6023846323 - clone army. Or h
 
 We believe time has moved on since the Manifesto, and that's has made this specific wording less useful, to us at least, than it once was. The difference, we think, here is partly in the mainstreaming of geek culture. 
 
-Within the community, there was not the cult of celebrity around developers there is now. The Cathedral and the Bazaar had just been written, remember. There was not so much of a thing as a "rockstar developer".  (It wasn't all bad...) We didn't have so many devs who cultivated a personal brand... Probably because the world wasn't so small... Social media has a lot to answer for.
+Within the community, there was not the cult of celebrity around developers there is now. The Cathedral and the Bazaar had just been written, remember. We didn't have so many devs who cultivated a personal brand... Probably because the world wasn't so small... Social media has a lot to answer for.
 
 We suspect the Manifesto was juxtaposing individuals against an industrialised process. Artisan against menial. That's done now, and while we must guard against a return to cube-slavery, it might bring a new threat. 
 
-The flip side (dark side?) the cult of individual brings with it is the glorification of individual effort over the work of teams. Later on we'll talk about collaboration, but it crops up here too. The opposite of individual isn't necessarily only slave, but also team member. For us there's a triangle there: individual, team member, slave at each apex.
+The flip side (dark side?) the cult of individual brings with it is the glorification of individual effort over the work of teams. The cult of the rockstar developer. Later on we'll talk about collaboration, but it crops up here too. The opposite of individual isn't necessarily only slave, but also team member. For us there's a triangle there: individual, team member, slave at each apex.
+
+Image: https://www.flickr.com/photos/apocalust/5157001040 - Prince.
 
 Reducing individuals to slaves, production line workers, call them what you will,  makes them incapable of their best work. They aren't capable of responding to change in the way agile demands. Their agency has been beaten out of them. That seems pretty clear. 
 
 But it's our assertion that reducing a team member to an individual does the same. Over-valuing an individual makes it more likely they'll place their own interests over those of the team. Over-valuing any one skill set means valuing the skills of others less. It breeds arrogance, specialisation and kills the chances of change.  Rockstars are poison to teams.
 
-Image: https://www.flickr.com/photos/apocalust/5157001040 - Prince.
+Image: https://www.flickr.com/photos/pasukaru76/4772023722 or https://www.flickr.com/photos/pasukaru76/5354781759 - Boba Fett. Not a team player.
 
 There's an interesting parallel here with external consultants, we think, valued for their specific skills, not for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
 
-Image: https://www.flickr.com/photos/pasukaru76/4772023722 or https://www.flickr.com/photos/pasukaru76/5354781759 - Boba Fett. Not a team player.
+
 
 Otherwise you lose the team ethos and shared responsibility that makes good software.
 
