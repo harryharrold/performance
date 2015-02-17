@@ -66,7 +66,7 @@ The essay cathedral and bazaar by Eric S. Raymond was four.
 
 ## Individuals and interactions over processes and tools
 
-Image: https://www.flickr.com/photos/pasukaru76/4368389868
+Image: https://www.flickr.com/photos/gratapictures/6023846323 - clone army. Or https://www.flickr.com/photos/via/6182784051 if you prefer.
 
 We believe time has moved on since the Manifesto, and that's has made this specific wording less useful, to us at least, than it once was. The difference, we think, here is partly in the mainstreaming of geek culture. 
 
@@ -118,7 +118,7 @@ Have any of you ever seen a post-it note leaving the office on someone's shoe?
 
 * So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
 
-## Working software over comprehensive documentation
+## Woclomerking software over comprehensive documentation
 
 Image: https://www.flickr.com/photos/33774513@N08/4335376117 - a library...
 
@@ -253,6 +253,8 @@ A manifesto for our software development.
 * Embracing change over following a plan.
 
 If we have any wisdom at all, any slight heresy to proclaim as new orthodoxy, then it is these two:
+
+Image: https://www.flickr.com/photos/pasukaru76/4368389868 - clone in chains.
 
 Retain humanity (Remember not to swop the tyranny of process, for the tyranny of individualism.)
 
