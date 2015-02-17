@@ -19,7 +19,7 @@ We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really 
 > vaguely alluding to the cults, sects and heresies they’ve encountered and mostly dodging the responsibility of formulating
 > a new “ad-hoc” manifesto."
 
-Image: Heresy, cults, possibly witch burnings.
+Image: https://www.flickr.com/photos/matijagrguric/4436279464/ - a witch burning.
 
 Doesn't really slip off the tongue, does it?
 
@@ -86,11 +86,13 @@ Yes, even Einstein.
 
 There's an interesting parallel here with external consultants, we think, valued for their specific skills, not for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
 
-Image: Boba Fett.
+Image: https://www.flickr.com/photos/pasukaru76/4772023722 or https://www.flickr.com/photos/pasukaru76/5354781759 - Boba Fett. Not a team player.
 
 Otherwise you lose the team ethos and shared responsibility that makes good software.
 
 ### Heresy: 3 front-end devs, 2 back-end and a delivery manager please. 
+
+Image: https://www.flickr.com/photos/35360601@N02/7747525828 and https://www.flickr.com/photos/35360601@N02/7747526978 Team GB.
 
 You can body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised."
 
@@ -98,11 +100,11 @@ A team is not a collection of individuals.
 
 ### end heresy
 
-Image: Team. Maybe from the scrum, earlier.
-
 An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communciations that intermediate such that nobody gives their anyone their full attention. Keeping that team ehtos together when you're remote is difficult, but it's not impossible. It's hindered by pointless adherence to process too. 
 
 ### heresy
+
+Image: https://www.flickr.com/photos/kwl/4678498113 shouting. 
 
 I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know waht you are doiong, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know.
 
@@ -118,7 +120,7 @@ Have any of you ever seen a post-it note leaving the office on someone's shoe?
 
 * So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
 
-## Woclomerking software over comprehensive documentation
+## Working software over comprehensive documentation
 
 Image: https://www.flickr.com/photos/33774513@N08/4335376117 - a library...
 
@@ -132,7 +134,7 @@ Let's focus instead on "Working Software".
 
 Deciding whether a piece of software is working or not turns out to be a really problematic area...
 
-Image: A complex machine? Or a mechanic?
+Image: https://www.flickr.com/photos/morebyless/4639456161 A machine and some people that might be mechanics
 
   * If you're building a client for an api which doesn't yet exist can you say it is working?
   * If your approach was wrong and you've built an implementation which you intend to discard is that working?
@@ -153,15 +155,21 @@ Next off some development gets done, some snags arise, approaches are attempted 
 
 Later some testing gets done. And the feature doesn't pass for all sorts of reasons. Some of which are that the acceptance criteria have failed to keep pace with the rate of change in the approach to delivering the story.
 
+Image: Books, reading, process
+
 So how many things are wrong in this picture?
 
 What is happening here is a fine example of ritualized "agile" ceremonial.
 
 Envisioning an end state, in this case in the form of acceptance criteria, has contributed this team's return to the false comfort of counter-revolutionary departmentalism. Within the lifespan of this user story there has been a reconstruction of the old scheme -  requirements were gathered, a plan was made (which would have looked very old fashioned if we'd not been distracted by the fact that it omitted every thing between A and Z) and then the work was pushed from analysis, to development to test in a micro-re-enactment of the broken waterfall sausage-factory. The development of the software was driven by documentation... just incomplete documentation.
 
-Image: Books, reading, process
+
+
+Image: https://www.flickr.com/photos/atin800/5196920800 - best waterfall I can find.
 
 That the testing specialist was unaware of the changing landscape of the story suggests that the team hasn't understood what inter-disciplinary can really mean and is still organizing itself by specialization and processing tasks according to the logic of the waterfall - that one stage cannot begin until a prior one has completed. Imagine that this team had reformed their notion of "working software", that they had set their cap at usefulness rather than compliance. Imagine that they had included the test specialist in all the conversations around the feature. Imagine that the tester had been given the authority their expertees merits, to evaluate the software against the user story without their approach being prescribed by a prior department. Imagine, in fact, that the program of agilism in this team had fully corrected (by which I mean effaced) the uneven power relationships which tend to assert themselves when we relax our vigilance.
+
+Image: https://www.flickr.com/photos/dunechaser/104968057 - marx and engels.
 
 It is worth recalling here that we are reading a manifesto. A properly politcal document which aims at fomenting kaizen-revolution. A process which is necessarily incomplete if vestiges of old-think are allowed to shelter underneath rituals and mystifications. 
 
@@ -214,11 +222,11 @@ You are giving us a bad name. :-) Agile _can_ go on and on without clear end: it
 
 ### end heresy
 
-Image: a waterfall.
+Image: https://www.flickr.com/photos/kwl/5527716890 - all gone wrong.
 
 We _think_ we're agile - are we really? The good news is, most of us are a little agile, of only because when your waterfall process goes wrong - all you have left is ruthless focus on the most important things remaining. Most of us do respond to change, because your functional specification will get ripped up when you can feel the winds of deadline rushing past your ears. That's really interesting to me. I don't know about you, but the moments I loved about software development were the best crunches. Absolutely loved them - with the minor caveat that they break you in the end. So when _I_ heard about agile, I looked at it and thought... "Oh, it's crunches but lots of them, and they're all smaller and so less scary. Ace. Sign me up." Get some feedback that needs a change, have a quick chat, get the change in and tested? Great.
 
-Image: 
+
 
 ### Heresy
 
