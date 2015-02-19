@@ -31,15 +31,6 @@ Obviously.
 
 ## We start.
 
-Image: Something political, or possibly religious.
-
-Manifesto for Agile Software Development
-
-Individuals and interactions over processes and tools  
-Working software over comprehensive documentation  
-Customer collaboration over contract negotiation  
-Responding to change over following a plan
-
 Image: https://www.flickr.com/photos/brickresort/6833649749 - it's an engineer. IT is happening.
 
 Set that in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
@@ -86,8 +77,6 @@ Image: https://www.flickr.com/photos/pasukaru76/4772023722 or https://www.flickr
 
 There's an interesting parallel here with external consultants, we think, valued for their specific skills, not for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
 
-
-
 Otherwise you lose the team ethos and shared responsibility that makes good software.
 
 ### Heresy: 3 front-end devs, 2 back-end and a delivery manager please. 
@@ -103,7 +92,6 @@ A team is not a collection of individuals.
 An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communciations that intermediate such that nobody gives their anyone their full attention. Keeping that team ehtos together when you're remote is difficult, but it's not impossible. It's hindered by pointless adherence to process too. 
 
 ### heresy
-
 
 
 I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know waht you are doiong, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know.
@@ -204,12 +192,6 @@ Image: https://www.flickr.com/photos/hoyvinmayvin/5873697252 - a meeting gone ba
 We're a commercial company. We have customers. We like to have happy customers. And we don't get them by contract negotiation. We even like to collaborate with them. 
 
 It doesn't even articulate the complexity within a customer organisation: within the customers' departments, their internal politics, their varied opinions. Even within a "customer" organisation, you are in a multi-party world. If you squint, and you are an external agency, and you have a strong product owner in the customer it's close. Maybe it's simply that, actually. maybe it's the sordid commercial accent on customer, and those in that world have a more sophisticated view of what a customer might be than we do. It's that assumption of supplierness where many more business are now than were in 2001 beginning to  understand themselves as software companies: as providers of computerised interfaces to other organisations.
-
-### Heresy: 
-
-That said, we'd like you to stick to your "Data contract"  - to the promises made by various sub-systems of in complex software environments - unless you talk it over first. (We're sorry - JSON means you can't comment that code, so the reasons why it is that way have to stay opaque.)
-
-### end heresy
 
 However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
