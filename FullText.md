@@ -3,11 +3,11 @@
 > "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing
 > agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
 
-Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. Oh, the heresies we will show you. Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile, or at least one of the many fascinating things, is how many people who practise it have read so little about it. Us, for example. I/Harry was at a session at Govcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile mainfesto. 
+Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. Oh, the heresies we will show you. Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile, or at least one of the many fascinating things, is how many people who practise it have read so little about it. Us, for example. I/Harry was at a session at Govcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto. 
 
 So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
-The agile mainfesto rocks.
+The agile manifesto rocks.
 
 Image: https://www.flickr.com/photos/songzhen/8100209478 or https://www.flickr.com/photos/markow76/15575226235 - a rock band.
 
@@ -15,7 +15,7 @@ I mean, it rocks, it really does. It's ace. You need to go back and read it.
 
 We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really my thing, and we given we disciples promise to question, criticise and iterate we'd be letting the prophets down if we didn't. So here goes.
 
-> "Harry and Rupert critically re-examine the agile mainfesto in the light of their working with people “doing agile”,
+> "Harry and Rupert critically re-examine the agile manifesto in the light of their working with people “doing agile”,
 > vaguely alluding to the cults, sects and heresies they’ve encountered and mostly dodging the responsibility of formulating
 > a new “ad-hoc” manifesto."
 
@@ -44,7 +44,7 @@ Image: https://www.flickr.com/photos/brickresort/6833649749 - it's an engineer. 
 
 Set that in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
 
-What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile mainfesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
+What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile manifesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
 Image: https://www.flickr.com/photos/33774513@N08/4335376117 - Text? A library.
 
@@ -130,9 +130,21 @@ Image: https://www.flickr.com/photos/33774513@N08/4335376117 - someone making so
 
 We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
 
+### Heresy
+
 We'll gloss over the faith-crimes committed under this tenet, projects with deliberate no-documentation policies, assertions that good test coverage is, in itself superior to documentation simply because it demonstrates working-ness.
 
 Let's hurry past the minor sins of omission justified by misreadings of this article. Very few people like to write docs, and not as many people read 'em as maybe should. There's a lot of laziness hiding under misreadings of this item.
+
+I/Rupert is guilty as hell. The amount of documentation I, personally, have _not_ written is astonishing. I'm an expert in the field. But I'm not sheltering under this. I'm just an idiot, a short-sighted, lazy idiot.
+
+When they wrote this they weren't talking about the sort of documentation I don't write. They were reacting against decades of oppression by overwhelming quantities of up-front specification.
+
+Image: https://www.flickr.com/photos/merwing/8725106300
+
+We shouldn't confuse the futility of writing documentation of what software _should_ do with the noble and necessary work of documenting what software does, and how and why it does it.
+
+### end heresy
 
 Let's focus instead on "Working Software".
 
@@ -172,12 +184,11 @@ Image: https://www.flickr.com/photos/atin800/5196920800 - best waterfall I can f
 That the testing specialist was unaware of the changing landscape of the story suggests that the team hasn't understood what inter-disciplinary can really mean and is still organizing itself by specialization and processing tasks according to the logic of the waterfall - that one stage cannot begin until a prior one has completed. Imagine that this team had reformed their notion of "working software", that they had set their cap at usefulness rather than compliance. Imagine that they had included the test specialist in all the conversations around the feature. Imagine that the tester had been given the authority their expertees merits, to evaluate the software against the user story without their approach being prescribed by a prior department. Imagine, in fact, that the program of agilism in this team had fully corrected (by which I mean effaced) the uneven power relationships which tend to assert themselves when we relax our vigilance.
 
 Image: https://www.flickr.com/photos/dunechaser/104968057 - marx and engels.
+Image: https://www.flickr.com/photos/36978767@N03/3427736164
 
 It is worth recalling here that we are reading a manifesto. A properly politcal document which aims at fomenting kaizen-revolution. A process which is necessarily incomplete if vestiges of old-think are allowed to shelter underneath rituals and mystifications. 
 
-"In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
-
-    As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)
+Image: https://www.flickr.com/photos/36978767@N03/3427736164
 
 So, "Useful software over comprehensive documentation". Good.
 
@@ -205,6 +216,10 @@ However, it still talks to a bipartite relationship. That's not good enough beca
 Image: https://www.flickr.com/photos/comedynose/16094729617 - happy people
 
 It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software.
+
+"In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
+
+    As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)
 
 Our triangle there is between customer - team - user, with those 2 apexes. We find our best work where we're closest to the middle of that triangle.
 
