@@ -281,14 +281,14 @@ If we have any wisdom at all, any slight heresy to proclaim as new orthodoxy, th
 
 Image: https://www.flickr.com/photos/pasukaru76/4368389868 - clone in chains.
 
-Retain humanity (Remember not to swop the tyranny of process, for the tyranny of individualism.)
+Retain humanity (Remember you serve your software's users as well as your customer...)
 
 Image: https://www.flickr.com/photos/stavos52093/12798129015 - everything is awesome.
 
-Distribute power, don't re-position it. (Remember you serve your software's users as well as your customer... remember you are part of a team, you are not a rockstar.)
+Distribute power, don't re-position it. (Remember not to swop the tyranny of process, for the tyranny of individualism. Remember you are part of a team, you are not a rockstar.)
 
 If you can balance those, then you're doing very well indeed.
 
-And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. What it is, is wisdom.
+And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. We've binned our efforts at creating a new manifesto, and suggest you do too.
 
 
