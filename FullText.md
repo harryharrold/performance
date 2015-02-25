@@ -69,13 +69,13 @@ We suspect the Manifesto was juxtaposing individuals against an industrialised p
 
 The flip side (dark side?) the cult of individual brings with it is the glorification of individual effort over the work of teams. The cult of the rockstar developer. Later on we'll talk about collaboration, but it crops up here too. The opposite of individual isn't necessarily only slave, but also team member. For us there's a triangle there: individual, team member, slave at each apex.
 
- ![Rockstar](images/14112636141-thumb.jpg)
+![Rockstar](images/14112636141-thumb.jpg)
 
 Reducing individuals to slaves, production line workers, call them what you will,  makes them incapable of their best work. They aren't capable of responding to change in the way agile demands. Their agency has been beaten out of them. That seems pretty clear. 
 
 But it's our assertion that reducing a team member to an individual does the same. Over-valuing an individual makes it more likely they'll place their own interests over those of the team. Over-valuing any one skill set means valuing the skills of others less. It breeds arrogance, specialisation and kills the chances of change.  Rockstars are poison to teams.
 
- ![Boba Fett. Not a team player](images/5354781759-thumb.jpg)
+![Boba Fett. Not a team player](images/5354781759-thumb.jpg)
 
 There's an interesting parallel here with external consultants, we think, valued for their specific skills, not for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
 
@@ -83,8 +83,8 @@ Otherwise you lose the team ethos and shared responsibility that makes good soft
 
 ### Heresy: 3 front-end devs, 2 back-end and a delivery manager please. 
 
- ![Team GB](images/7747525828-thumb.jpg)
- ![Team GB](images/7747526978-thumb.jpg)
+![Team GB](images/7747525828-thumb.jpg)
+![Team GB](images/7747526978-thumb.jpg)
 
 You can body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised."
 
@@ -117,7 +117,6 @@ This will have me burnt.
 
 ## Working software over comprehensive documentation
 
- 
 ![someone making something work...](images/4335376117-thumb.jpg)
 
 We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
@@ -132,7 +131,7 @@ I/Rupert is guilty as hell. The amount of documentation I, personally, have _not
 
 When they wrote this they weren't talking about the sort of documentation I don't write. They were reacting against decades of oppression by overwhelming quantities of up-front specification.
 
- ![Overwhelming Specification Mime](images/8725106300-thumb.jpg)
+![Overwhelming Specification Mime](images/8725106300-thumb.jpg)
 
 We shouldn't confuse the futility of writing documentation of what software _should_ do with the noble and necessary work of documenting what software does, and how and why it does it.
 
@@ -142,7 +141,7 @@ Let's focus instead on "Working Software".
 
 Deciding whether a piece of software is working or not turns out to be a really problematic area...
 
- ![A machine and some people that might be mechanics](images/4639456161-thumb.jpg)
+![A machine and some people that might be mechanics](images/4639456161-thumb.jpg)
 
   * If you're building a client for an api which doesn't yet exist can you say it is working?
   * If your approach was wrong and you've built an implementation which you intend to discard is that working?
@@ -151,35 +150,7 @@ Imagine for a moment that we scrub out "working" and replace it with "useful". I
 
 Sometimes attempts to control the definition of "Working Software" can be surprisingly illuminating.
 
-Here's a situation:
 
-There's a feature, and it has a user story, in the conversations which formed the user story folk were exemplary in not smuggling implementation instructions into it. The story looks good, resilient. It captures a user need, and couples it to a business objective - most people who read it understand it and can immediately suggest a couple of different ways to fulfil it. Perfect.
-
- ![Einstein writes a user story. It's got acceptance criteria.](images/567753250-thumb.jpg)
-
-At this point someone remembers to add some acceptance criteria, or a definition of done, or somesuch. There's an obvious moment of danger here, the story wasn't prescriptive, but it is much easier for prescriptions to creep into acceptance criteria. But it might be that adding the acceptance criteria at all was the danger. It is hard to write good user stories; writing good acceptance criteria is harder still, since they approach functional specification - which as we all know exists in a quantum state fluctuating between impossibility and futility.
-
-Next off some development gets done, some snags arise, approaches are attempted and discarded, conversations are had. All good.
-
-Later some testing gets done. And the feature doesn't pass for all sorts of reasons. Some of which are that the acceptance criteria have failed to keep pace with the rate of change in the approach to delivering the story.
-
-So how many things are wrong in this picture?
-
- ![Instruction. By the Emperor, as it happens.](images/7278423788-thumb.jpg)
-
-What is happening here is a fine example of ritualized "agile" ceremonial.
-
-Envisioning an end state, in this case in the form of acceptance criteria, has contributed this team's return to the false comfort of counter-revolutionary departmentalism. Within the lifespan of this user story there has been a reconstruction of the old scheme -  requirements were gathered, a plan was made (which would have looked very old fashioned if we'd not been distracted by the fact that it omitted every thing between A and Z) and then the work was pushed from analysis, to development to test in a micro-re-enactment of the broken waterfall sausage-factory. The development of the software was driven by documentation... just incomplete documentation.
-
- ![best waterfall I can find](images/5196920800-thumb.jpg)
-
-That the testing specialist was unaware of the changing landscape of the story suggests that the team hasn't understood what inter-disciplinary can really mean and is still organizing itself by specialization and processing tasks according to the logic of the waterfall - that one stage cannot begin until a prior one has completed. Imagine that this team had reformed their notion of "working software", that they had set their cap at usefulness rather than compliance. Imagine that they had included the test specialist in all the conversations around the feature. Imagine that the tester had been given the authority their expertees merits, to evaluate the software against the user story without their approach being prescribed by a prior department. Imagine, in fact, that the program of agilism in this team had fully corrected (by which I mean effaced) the uneven power relationships which tend to assert themselves when we relax our vigilance.
-
-![Fidel and Che](images/2635864070-thumb.jpg)
-
-It is worth recalling here that we are reading a manifesto. A properly politcal document which aims at fomenting kaizen-revolution. A process which is necessarily incomplete if vestiges of old-think are allowed to shelter underneath rituals and mystifications. 
-
-![Revolution](images/3427736164-thumb.jpg)
 
 So, "Useful software over comprehensive documentation". Good.
 
@@ -226,6 +197,37 @@ You are giving us a bad name. :-) Agile _can_ go on and on without clear end: it
 
 ![all gone wrong](images/5527716890-thumb.jpg)
 
+
+Here's a situation:
+
+There's a feature, and it has a user story, in the conversations which formed the user story folk were exemplary in not smuggling implementation instructions into it. The story looks good, resilient. It captures a user need, and couples it to a business objective - most people who read it understand it and can immediately suggest a couple of different ways to fulfil it. Perfect.
+
+![Einstein writes a user story. It's got acceptance criteria.](images/567753250-thumb.jpg)
+
+At this point someone remembers to add some acceptance criteria, or a definition of done, or somesuch. There's an obvious moment of danger here, the story wasn't prescriptive, but it is much easier for prescriptions to creep into acceptance criteria. But it might be that adding the acceptance criteria at all was the danger. It is hard to write good user stories; writing good acceptance criteria is harder still, since they approach functional specification - which as we all know exists in a quantum state fluctuating between impossibility and futility.
+
+Next off some development gets done, some snags arise, approaches are attempted and discarded, conversations are had. All good.
+
+Later some testing gets done. And the feature doesn't pass for all sorts of reasons. Some of which are that the acceptance criteria have failed to keep pace with the rate of change in the approach to delivering the story.
+
+So how many things are wrong in this picture?
+
+![Instruction. By the Emperor, as it happens.](images/7278423788-thumb.jpg)
+
+What is happening here is a fine example of ritualized "agile" ceremonial.
+
+Envisioning an end state, in this case in the form of acceptance criteria, has contributed this team's return to the false comfort of counter-revolutionary departmentalism. Within the lifespan of this user story there has been a reconstruction of the old scheme -  requirements were gathered, a plan was made (which would have looked very old fashioned if we'd not been distracted by the fact that it omitted every thing between A and Z) and then the work was pushed from analysis, to development to test in a micro-re-enactment of the broken waterfall sausage-factory. The development of the software was driven by documentation... just incomplete documentation.
+
+![best waterfall I can find](images/5196920800-thumb.jpg)
+
+That the testing specialist was unaware of the changing landscape of the story suggests that the team hasn't understood what inter-disciplinary can really mean and is still organizing itself by specialization and processing tasks according to the logic of the waterfall - that one stage cannot begin until a prior one has completed. Imagine that this team had reformed their notion of "working software", that they had set their cap at usefulness rather than compliance. Imagine that they had included the test specialist in all the conversations around the feature. Imagine that the tester had been given the authority their expertees merits, to evaluate the software against the user story without their approach being prescribed by a prior department. Imagine, in fact, that the program of agilism in this team had fully corrected (by which I mean effaced) the uneven power relationships which tend to assert themselves when we relax our vigilance.
+
+![Fidel and Che](images/2635864070-thumb.jpg)
+
+It is worth recalling here that we are reading a manifesto. A properly politcal document which aims at fomenting kaizen-revolution. A process which is necessarily incomplete if vestiges of old-think are allowed to shelter underneath rituals and mystifications. 
+
+![Revolution](images/3427736164-thumb.jpg)
+
 We _think_ we're agile - are we really? The good news is, most of us are a little agile, of only because when your waterfall process goes wrong - all you have left is ruthless focus on the most important things remaining. Most of us do respond to change, because your functional specification will get ripped up when you can feel the winds of deadline rushing past your ears. That's really interesting to me. I don't know about you, but the moments I loved about software development were the best crunches. Absolutely loved them - with the minor caveat that they break you in the end. So when _I_ heard about agile, I looked at it and thought... "Oh, it's crunches but lots of them, and they're all smaller and so less scary. Ace. Sign me up." Get some feedback that needs a change, have a quick chat, get the change in and tested? Great.
 
 
@@ -238,7 +240,7 @@ Those conversations that aren't. The ones that leave "agile" as a fractal versio
 
 Taken to a conclusion - Agile is constant upheaval. It's just not good enough to just respond to change, you have to bring it on yourself. 
 
- ![change can be worrying](images/4678498113-thumb.jpg)
+![change can be worrying](images/4678498113-thumb.jpg)
 
 You have a "definition of done"? You're screwed. Just the word "done". Definition of done limits continual improvement that makes great software (And I nearly wrote great user experience there...) . You are never done. You've just shipped today's best guess, well tested. (You did test everything you shipped, right?) Look, if you want to be "done" have you considered an alternative career? Cabinet maker, maybe? Or possibly a different century? Find a better word for done.
 
@@ -251,7 +253,7 @@ That's it for me. Recognising the absolute inevitability of change, and not just
 
 Here we are at the end of a journey of sorts.
 
- ![Darth Vader relaxing on a sofa.](images/14626340083-thumb.jpg)
+![Darth Vader relaxing on a sofa.](images/14626340083-thumb.jpg)
 
 We aimed at a new manifesto, we aimed to poke fun at sects and heretics and the fuddy-duddy aged, the set in their ways, the defenders of cant and ossifised process masquerading as agility. The Cargo Cultists. And we have done that a little. But... We were missing the point. When we critically examined the original doctrine, we found what we had expected to rail against just wasn't there. Our solid complaints turned out to be our misconceptions. Damnit, I might even get me one of theose scrum mast er certificates. What we actually found is that try as you might: it's a damned good thing, is the Agile Manifesto. Maybe a tweak or two. Or four, as we've tried for for reasons of neatness really. Oh, and cheap rhetorical flourish, of course. But it's a damned good thing, and if you check back against it often, you'll be OK.
 
@@ -264,11 +266,11 @@ A manifesto for our software development.
 
 If we have any wisdom at all, any slight heresy to proclaim as new orthodoxy, then it is these two:
 
- ![clone in chains](images/4368389868-thumb.jpg)
+![clone in chains](images/4368389868-thumb.jpg)
 
 Retain humanity (Remember you serve your software's users as well as your customer...)
 
- ![everything is awesome](images/12798129015-thumb.jpg)
+![everything is awesome](images/12798129015-thumb.jpg)
 
 Distribute power, don't re-position it. (Remember not to swop the tyranny of process, for the tyranny of individualism. Remember you are part of a team, you are not a rockstar.)
 
