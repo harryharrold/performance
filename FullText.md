@@ -35,6 +35,8 @@ Obviously.
 
 Set that in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
 
+![MinecraftCarta](images/13508901354-thumb.jpg)
+
 What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile manifesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
 ![Text? A library](images/4335376117-thumb.jpg)
@@ -67,7 +69,7 @@ We suspect the Manifesto was juxtaposing individuals against an industrialised p
 
 The flip side (dark side?) the cult of individual brings with it is the glorification of individual effort over the work of teams. The cult of the rockstar developer. Later on we'll talk about collaboration, but it crops up here too. The opposite of individual isn't necessarily only slave, but also team member. For us there's a triangle there: individual, team member, slave at each apex.
 
- ![Prince](images/5157001040-thumb.jpg)
+ ![Rockstar](images/14112636141-thumb.jpg)
 
 Reducing individuals to slaves, production line workers, call them what you will,  makes them incapable of their best work. They aren't capable of responding to change in the way agile demands. Their agency has been beaten out of them. That seems pretty clear. 
 
@@ -196,7 +198,7 @@ It doesn't even articulate the complexity within a customer organisation: within
 
 However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
- ![happy people](images/16094729617-thumb.jpg)
+![happy people](images/16094729617-thumb.jpg)
 
 It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software.
 
@@ -210,7 +212,7 @@ Our triangle there is between customer - team - user, with those 2 apexes. We fi
 
 ## Responding to change over following a plan
 
- ![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg)
+![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg)
 
 Following. Not "being enslaved by..."  or "adhering to in the face of all rational evidence to the contrary", or, indeed "having any semblance of"...
 
@@ -222,7 +224,7 @@ You are giving us a bad name. :-) Agile _can_ go on and on without clear end: it
 
 ### end heresy
 
- ![all gone wrong](images/5527716890-thumb.jpg)
+![all gone wrong](images/5527716890-thumb.jpg)
 
 We _think_ we're agile - are we really? The good news is, most of us are a little agile, of only because when your waterfall process goes wrong - all you have left is ruthless focus on the most important things remaining. Most of us do respond to change, because your functional specification will get ripped up when you can feel the winds of deadline rushing past your ears. That's really interesting to me. I don't know about you, but the moments I loved about software development were the best crunches. Absolutely loved them - with the minor caveat that they break you in the end. So when _I_ heard about agile, I looked at it and thought... "Oh, it's crunches but lots of them, and they're all smaller and so less scary. Ace. Sign me up." Get some feedback that needs a change, have a quick chat, get the change in and tested? Great.
 
