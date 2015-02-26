@@ -45,7 +45,7 @@ Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7.)
 
 ### Heresy
 
- Picture of a scrum.
+![Lego Scrum](images/scrum-thumb.jpg)
 
 I've always thought scrum was a lousy metaphor. A "scrum" is two packs colliding and attempting to push each other backwards. Turns out before then it was "rugby", and oh lord is that better...
 
@@ -148,8 +148,6 @@ Deciding whether a piece of software is working or not turns out to be a really 
 
 Imagine for a moment that we scrub out "working" and replace it with "useful". Immediately our problems above make more sense.
 
-Sometimes attempts to control the definition of "Working Software" can be surprisingly illuminating.
-
 
 
 So, "Useful software over comprehensive documentation". Good.
@@ -173,9 +171,7 @@ However, it still talks to a bipartite relationship. That's not good enough beca
 
 It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software.
 
-"In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
 
-    As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)
 
 Our triangle there is between customer - team - user, with those 2 apexes. We find our best work where we're closest to the middle of that triangle.
 
@@ -277,5 +273,12 @@ Distribute power, don't re-position it. (Remember not to swop the tyranny of pro
 If you can balance those, then you're doing very well indeed.
 
 And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. We've binned our efforts at creating a new manifesto, and suggest you do too.
+
+
+## LEftovers
+
+"In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
+
+    As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)
 
 
