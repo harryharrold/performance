@@ -4,7 +4,7 @@ This is the repo where myself and Rupert Redington nailed together our keynote f
 
 If you simply want to read what we _meant_ to say: https://github.com/harryharrold/performance/blob/master/FullText.md
 
-The actual prsentation was delivered using a deck of images, which we displayed as the background to a greenscreen'ed board on which we slapped post-it notes to make any points we needed to write down.
+The actual presentation was delivered using a folder of images, which we displayed as the background to a greenscreen'ed board on which we slapped post-it notes to make any points we needed to write down.
 
 The closest we have to a "slide deck" is the cue list at https://github.com/harryharrold/performance/blob/master/cuelist.md
 
