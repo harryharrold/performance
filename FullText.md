@@ -3,7 +3,7 @@
 > "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing
 > agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
 
-Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. Oh, the heresies we will show you. Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile, or at least one of the many fascinating things, is how many people who practise it have read so little about it. Us, for example. I/Harry was at a session at Govcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto. 
+Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. Oh, the heresies we will show you. Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile, or at least one of the many fascinating things, is how many people who practise it have read so little about it. Us, for example. I/Harry was at a session at UKGovcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto. 
 
 So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
@@ -43,10 +43,10 @@ What are the apocrypha? Well, they are those texts which were around at the same
 
 Scrum was fifteen years old. (Yes, we were surprised too. The word itself was six or seven years old.)
 
-| A Heresy |
+| A Heresy: Scrum is a lousy metaphor. |
 |----- |
 | ![Lego Scrum](images/scrum-thumb.jpg) |
-| I've always thought scrum was a lousy metaphor. A "scrum" is two packs colliding and attempting to push each other backwards. Turns out before then it was "rugby", and oh lord is that better... |
+| A scrum is two packs, two groups of people, colliding and attempting to push each other backwards. THat is not a good metaphor for constructive engagement. Turns out before then it was "rugby", and oh lord is that better... |
 
 Extreme programming was two years old.
 
@@ -82,34 +82,29 @@ Otherwise you lose the team ethos and shared responsibility that makes good soft
 |----- | 
 | ![Team GB](images/7747525828-thumb.jpg)
 ![Team GB](images/7747526978-thumb.jpg) |
-| You can't body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised." |
+| You can't body-shop an agile team. You recuit by skills, sure. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised."
 
-A team is not a collection of individuals.
+A team is not a collection of individuals. |
 
-### end heresy
 
 An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communciations that intermediate such that nobody gives their anyone their full attention. Keeping that team ehtos together when you're remote is difficult, but it's not impossible. It's hindered by pointless adherence to process too. 
 
-### heresy
 
-
-I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know waht you are doiong, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know.
-
-### end heresy
+| Heresy: Please, for the love of god, shut up. |
+|----- | 
+I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know what you are doing, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know. |
 
 We have, however, come to value processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy.
 
-### heresy
-
-![another witch burning](images/6291267341-thumb.jpg)
+| Heresy: Post-it (tm) notes not a panacea. |
+|----- | 
+| ![another witch burning](images/6291267341-thumb.jpg)
 
 This will have me burnt. 
 
-...have any of you ever seen a post-it note leaving the office on someone's shoe?
+...have any of you ever seen a post-it note leaving the office on someone's shoe? Yes. That. |
 
-### end heresy
-
-* So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
+### So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
 
 ## Working software over comprehensive documentation
 
@@ -117,9 +112,9 @@ This will have me burnt.
 
 We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
 
-### Heresy
-
-We'll gloss over the faith-crimes committed under this tenet, projects with deliberate no-documentation policies, assertions that good test coverage is, in itself superior to documentation simply because it demonstrates working-ness.
+| Heresy: Documentation is not a crime against agile. |
+|----- | 
+| We'll gloss over the faith-crimes committed under this tenet, projects with deliberate no-documentation policies, assertions that good test coverage is, in itself superior to documentation simply because it demonstrates working-ness.  |
 
 Let's hurry past the minor sins of omission justified by misreadings of this article. Very few people like to write docs, and not as many people read 'em as maybe should. There's a lot of laziness hiding under misreadings of this item.
 
@@ -129,9 +124,7 @@ When they wrote this they weren't talking about the sort of documentation I don'
 
 ![Overwhelming Specification Mime](images/8725106300-thumb.jpg)
 
-We shouldn't confuse the futility of writing documentation of what software _should_ do with the noble and necessary work of documenting what software does, and how and why it does it.
-
-### end heresy
+We shouldn't confuse the futility of writing documentation of what software _should_ do with the noble and necessary work of documenting what software does, and how and why it does it. 
 
 Let's focus instead on "Working Software".
 
@@ -139,18 +132,16 @@ Deciding whether a piece of software is working or not turns out to be a really 
 
 ![A machine and some people that might be mechanics](images/4639456161-thumb.jpg)
 
-  * If you're building a client for an api which doesn't yet exist can you say it is working?
-  * If your approach was wrong and you've built an implementation which you intend to discard is that working?
+* If you're building a client for an api which doesn't yet exist can you say it is working?
+* If your approach was wrong and you've built an implementation which you intend to discard is that working?
 
 Imagine for a moment that we scrub out "working" and replace it with "useful". Immediately our problems above make more sense.
-
-
 
 So, "Useful software over comprehensive documentation". Good.
 
 While we're here lets fix the timing problem which can seduce us into reactionary thoughtcrimes, and at the same time we'll remove the stone under which anti-documentarianism born of laziness can hide.
 
-* "Useful software _before_ comprehensive documentation". Right.
+### "Useful software _before_ comprehensive documentation". Right.
 
 
 ## Customer collaboration over contract negotiation
@@ -161,17 +152,15 @@ We're a commercial company. We have customers. We like to have happy customers. 
 
 It doesn't even articulate the complexity within a customer organisation: within the customers' departments, their internal politics, their varied opinions. Even within a "customer" organisation, you are in a multi-party world. If you squint, and you are an external agency, and you have a strong product owner in the customer it's close. Maybe it's simply that, actually. maybe it's the sordid commercial accent on customer, and those in that world have a more sophisticated view of what a customer might be than we do. It's that assumption of supplierness where many more business are now than were in 2001 beginning to  understand themselves as software companies: as providers of computerised interfaces to other organisations.
 
-However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
+However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. The users. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
 ![happy people](images/16094729617-thumb.jpg)
 
-It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software.
+It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software. Users. 
 
+Our triangle here is between customer - team - user, with those 2 apexes. We find our best work where we're closest to the middle of that triangle.
 
-
-Our triangle there is between customer - team - user, with those 2 apexes. We find our best work where we're closest to the middle of that triangle.
-
-* We value collaborative delivery over contract negotiation. 
+### We value collaborative delivery over contract negotiation. 
 
 ## Responding to change over following a plan
 
@@ -179,16 +168,9 @@ Our triangle there is between customer - team - user, with those 2 apexes. We fi
 
 Following. Not "being enslaved by..."  or "adhering to in the face of all rational evidence to the contrary", or, indeed "having any semblance of"...
 
-### Heresy
-
-We don't need a plan. We're agile.
-
-You are giving us a bad name. :-) Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right.
-
-### end heresy
-
-![all gone wrong](images/5527716890-thumb.jpg)
-
+| Heresy: We don't need a plan. We're agile. |
+| ----- |
+| You are giving us a bad name. :-) Stop it. Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. ![all gone wrong](images/5527716890-thumb.jpg) |
 
 Here's a situation:
 
@@ -222,13 +204,9 @@ It is worth recalling here that we are reading a manifesto. A properly politcal 
 
 We _think_ we're agile - are we really? The good news is, most of us are a little agile, of only because when your waterfall process goes wrong - all you have left is ruthless focus on the most important things remaining. Most of us do respond to change, because your functional specification will get ripped up when you can feel the winds of deadline rushing past your ears. That's really interesting to me. I don't know about you, but the moments I loved about software development were the best crunches. Absolutely loved them - with the minor caveat that they break you in the end. So when _I_ heard about agile, I looked at it and thought... "Oh, it's crunches but lots of them, and they're all smaller and so less scary. Ace. Sign me up." Get some feedback that needs a change, have a quick chat, get the change in and tested? Great.
 
-
-
-### Heresy
-
-Those conversations that aren't. The ones that leave "agile" as a fractal version of waterfall. A series of very small, badly mapped, waterfalls. That's not _bad_. Well, it's not as bad as really really big waterfalls. But you need to do better. You need to include the _relevant_ people in the team for example, not just you and another dev, and you need to document what you've said somewhere, and if you use "Oh, we're agile we don't do documentation" as an excuse, I will find you, and I will install IE6 as your only browser. I don't think that's unreasonable.
-
-### Heresy ends
+| Heresy: Those conversations that aren't. |
+| ----- | 
+| The ones that leave "agile" as a fractal version of waterfall. A series of very small, badly mapped, waterfalls. That's not _bad_. Well, it's not as bad as really really big waterfalls. But you need to do better. You need to include the _relevant_ people in the team for example, not just you and another dev, and you need to document what you've said somewhere, and if you use "Oh, we're agile we don't do documentation" as an excuse, I will find you, and I will install IE6 as your only browser. I don't think that's unreasonable. |
 
 Taken to a conclusion - Agile is constant upheaval. It's just not good enough to just respond to change, you have to bring it on yourself. 
 
@@ -238,10 +216,10 @@ You have a "definition of done"? You're screwed. Just the word "done". Definitio
 
 That's it for me. Recognising the absolute inevitability of change, and not just responding to it, but embracing it.
 
-* We'd replace "Responding to" with "Embracing", we value "Embracing change over following a plan."
+### We'd replace "Responding to" with "Embracing", we value "Embracing change over following a plan."
 
 
-### An Ad-hoc manifesto?
+## An Ad-hoc manifesto?
 
 Here we are at the end of a journey of sorts.
 
@@ -271,7 +249,7 @@ If you can balance those, then you're doing very well indeed.
 And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. We've binned our efforts at creating a new manifesto, and suggest you do too.
 
 
-## LEftovers
+### A post-script.
 
 "In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
 
