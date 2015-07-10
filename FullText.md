@@ -164,7 +164,9 @@ Following. Not "being enslaved by..."  or "adhering to in the face of all ration
 | Heresy: We don't need a plan. We're agile. |
 | ----- |
 | ![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg) |
-| You are giving us a bad name. :-) Stop it. Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. ![all gone wrong](images/5527716890-thumb.jpg) |
+| You are giving us a bad name. :-) Stop it. Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. |
+
+![all gone wrong](images/5527716890-thumb.jpg) 
 
 Here's a situation:
 
