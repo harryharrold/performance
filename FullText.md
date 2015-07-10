@@ -213,7 +213,7 @@ That's it for me. Recognising the absolute inevitability of change, and not just
 
 ### We'd replace "Responding to" with "Embracing", we value "Embracing change over following a plan."
 
-## An Ad-hoc manifesto?
+## An ad-hoc manifesto?
 
 Here we are at the end of a journey of sorts.
 
