@@ -46,7 +46,6 @@ Scrum was fifteen years old. (Yes, we were surprised too. The word itself was si
 | A Heresy |
 |----- |
 | ![Lego Scrum](images/scrum-thumb.jpg) |
-| |
 | I've always thought scrum was a lousy metaphor. A "scrum" is two packs colliding and attempting to push each other backwards. Turns out before then it was "rugby", and oh lord is that better... |
 
 Extreme programming was two years old.
@@ -79,12 +78,11 @@ There's an interesting parallel here with external consultants, we think, valued
 
 Otherwise you lose the team ethos and shared responsibility that makes good software.
 
-### Heresy: 3 front-end devs, 2 back-end and a delivery manager please. 
-
-![Team GB](images/7747525828-thumb.jpg)
-![Team GB](images/7747526978-thumb.jpg)
-
-You can body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised."
+| Heresy: 3 front-end devs, 2 back-end and a delivery manager please. |
+|----- | 
+| ![Team GB](images/7747525828-thumb.jpg)
+![Team GB](images/7747526978-thumb.jpg) \
+| You can't body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised." |
 
 A team is not a collection of individuals.
 
