@@ -80,7 +80,7 @@ Otherwise you lose the team ethos and shared responsibility that makes good soft
 
 | Heresy: 3 front-end devs, 2 back-end and a delivery manager please. |
 | ----- | 
-| ![Team GB](images/7747525828-thumb.jpg) ![Team GB](images/7747526978-thumb.jpg) |
+| ![Team GB](images/7747525828-thumb.jpg) |
 | You can't body-shop an agile team. You recuit by skills, sure. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised." A team is not a collection of individuals. |
 
 
@@ -89,6 +89,7 @@ An agile team is inter-disciplinary team made out of specialists who have respec
 
 | Heresy: Please, for the love of god, shut up. |
 | ----- | 
+|  ![Team GB](images/7747526978-thumb.jpg) |
 I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know what you are doing, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know. |
 
 We have, however, come to value processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy.
@@ -96,19 +97,18 @@ We have, however, come to value processes and tools. Not the heavy-weight UML mo
 | Heresy: Post-it (tm) notes not a panacea. |
 |----- | 
 | ![another witch burning](images/6291267341-thumb.jpg)
-| This will have me burnt. 
+| This will have me burnt. |
 | ...have any of you ever seen a post-it note leaving the office on someone's shoe? Yes. That. |
 
 ### So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
 
 ## Working software over comprehensive documentation
 
-![someone making something work...](images/4335376117-thumb.jpg)
-
 We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
 
 | Heresy: Documentation is not a crime against agile. |
 |----- | 
+| ![someone making something work...](images/4335376117-thumb.jpg) |
 | We'll gloss over the faith-crimes committed under this tenet, projects with deliberate no-documentation policies, assertions that good test coverage is, in itself superior to documentation simply because it demonstrates working-ness.  |
 
 Let's hurry past the minor sins of omission justified by misreadings of this article. Very few people like to write docs, and not as many people read 'em as maybe should. There's a lot of laziness hiding under misreadings of this item.
@@ -159,12 +159,11 @@ Our triangle here is between customer - team - user, with those 2 apexes. We fin
 
 ## Responding to change over following a plan
 
-![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg)
-
 Following. Not "being enslaved by..."  or "adhering to in the face of all rational evidence to the contrary", or, indeed "having any semblance of"...
 
 | Heresy: We don't need a plan. We're agile. |
 | ----- |
+| ![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg) |
 | You are giving us a bad name. :-) Stop it. Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. ![all gone wrong](images/5527716890-thumb.jpg) |
 
 Here's a situation:
