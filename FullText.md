@@ -81,7 +81,7 @@ Otherwise you lose the team ethos and shared responsibility that makes good soft
 | Heresy: 3 front-end devs, 2 back-end and a delivery manager please. |
 |----- | 
 | ![Team GB](images/7747525828-thumb.jpg)
-![Team GB](images/7747526978-thumb.jpg) \
+![Team GB](images/7747526978-thumb.jpg) |
 | You can't body-shop an agile team. You recuit by skills, surely. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised." |
 
 A team is not a collection of individuals.
