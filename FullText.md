@@ -3,11 +3,11 @@
 > "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing
 > agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
 
-Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. Oh, the heresies we will show you. Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile, or at least one of the many fascinating things, is how many people who practise it have read so little about it. Us, for example. I/Harry was at a session at UKGovcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto. 
+Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. Oh, the heresies we will show you. Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile, or at least one of the many fascinating things, is how many people who practise it have read so little about it. Us, for example. I/Harry was at a session at UKGovcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto.
 
 So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
-The agile manifesto rocks.
+## The agile manifesto rocks.
 
 ![a rock band](images/15575226235-thumb.jpg)
 
@@ -33,11 +33,11 @@ Obviously.
 
 ![it's an engineer. IT is happening](images/6833649749-thumb.jpg)
 
-Set that in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
+Set the Manifesto in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
 
 ![MinecraftCarta](images/13508901354-thumb.jpg)
 
-What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to try. So we can't know directly why the content of the agile manifesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
+What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to mail them. So we can't know directly why the content of the agile manifesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
 ![Text? A library](images/4335376117-thumb.jpg)
 
@@ -46,13 +46,13 @@ Scrum was fifteen years old. (Yes, we were surprised too. The word itself was si
 | A Heresy: Scrum is a lousy metaphor. |
 |----- |
 | ![Lego Scrum](images/scrum-thumb.jpg) |
-| A scrum is two packs, two groups of people, colliding and attempting to push each other backwards. THat is not a good metaphor for constructive engagement. Turns out before then it was "rugby", and oh lord is that better... |
+| A scrum is two packs, two groups of people, colliding and attempting to push each other backwards. That is not a good metaphor for constructive engagement. Turns out before then it was "rugby", and oh lord is that better... |
 
 Extreme programming was two years old.
 
-The Psychology of Computer Programming by Gerald Weinburg was already 30. (His concept of ego-less programming is ace.)
+The [Psychology of Computer Programming](http://www.amazon.co.uk/The-Psychology-Computer-Programming-Anniversary/dp/0932633420) by Gerald Weinburg was already 30. (Go read that. His concept of ego-less programming is ace.)
 
-The essay cathedral and bazaar by Eric S. Raymond was four.
+The essay [cathedral and bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/) by Eric S. Raymond was four.
 
 ## Individuals and interactions over processes and tools
 
@@ -80,8 +80,7 @@ Otherwise you lose the team ethos and shared responsibility that makes good soft
 
 | Heresy: 3 front-end devs, 2 back-end and a delivery manager please. |
 |----- | 
-| ![Team GB](images/7747525828-thumb.jpg)
-![Team GB](images/7747526978-thumb.jpg) |
+| ![Team GB](images/7747525828-thumb.jpg) ![Team GB](images/7747526978-thumb.jpg) |
 | You can't body-shop an agile team. You recuit by skills, sure. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised."
 
 A team is not a collection of individuals. |
