@@ -202,18 +202,16 @@ We _think_ we're agile - are we really? The good news is, most of us are a littl
 
 | Heresy: Those conversations that aren't. |
 | ----- | 
+| ![change can be worrying](images/4678498113-thumb.jpg) |
 | The ones that leave "agile" as a fractal version of waterfall. A series of very small, badly mapped, waterfalls. That's not _bad_. Well, it's not as bad as really really big waterfalls. But you need to do better. You need to include the _relevant_ people in the team for example, not just you and another dev, and you need to document what you've said somewhere, and if you use "Oh, we're agile we don't do documentation" as an excuse, I will find you, and I will install IE6 as your only browser. I don't think that's unreasonable. |
 
 Taken to a conclusion - Agile is constant upheaval. It's just not good enough to just respond to change, you have to bring it on yourself. 
-
-![change can be worrying](images/4678498113-thumb.jpg)
 
 You have a "definition of done"? You're screwed. Just the word "done". Definition of done limits continual improvement that makes great software (And I nearly wrote great user experience there...) . You are never done. You've just shipped today's best guess, well tested. (You did test everything you shipped, right?) Look, if you want to be "done" have you considered an alternative career? Cabinet maker, maybe? Or possibly a different century? Find a better word for done.
 
 That's it for me. Recognising the absolute inevitability of change, and not just responding to it, but embracing it.
 
 ### We'd replace "Responding to" with "Embracing", we value "Embracing change over following a plan."
-
 
 ## An Ad-hoc manifesto?
 
