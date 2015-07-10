@@ -44,7 +44,7 @@ What are the apocrypha? Well, they are those texts which were around at the same
 Scrum was fifteen years old. (Yes, we were surprised too. The word itself was six or seven years old.)
 
 | A Heresy |
-| |
+|----- |
 | ![Lego Scrum](images/scrum-thumb.jpg) |
 | |
 | I've always thought scrum was a lousy metaphor. A "scrum" is two packs colliding and attempting to push each other backwards. Turns out before then it was "rugby", and oh lord is that better... |
