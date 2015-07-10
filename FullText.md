@@ -96,10 +96,8 @@ We have, however, come to value processes and tools. Not the heavy-weight UML mo
 | Heresy: Post-it (tm) notes not a panacea. |
 |----- | 
 | ![another witch burning](images/6291267341-thumb.jpg)
-
-This will have me burnt. 
-
-...have any of you ever seen a post-it note leaving the office on someone's shoe? Yes. That. |
+| This will have me burnt. 
+| ...have any of you ever seen a post-it note leaving the office on someone's shoe? Yes. That. |
 
 ### So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
 
