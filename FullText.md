@@ -41,17 +41,15 @@ What are the apocrypha? Well, they are those texts which were around at the same
 
 ![Text? A library](images/4335376117-thumb.jpg)
 
-Scrum was fifteen. (Yes, we were surprised too. The word itself was 6 or 7.)
+Scrum was fifteen years old. (Yes, we were surprised too. The word itself was six or seven years old.)
 
-### Heresy
+|A Heresy|
+||
+||![Lego Scrum](images/scrum-thumb.jpg)|
+||
+|I've always thought scrum was a lousy metaphor. A "scrum" is two packs colliding and attempting to push each other backwards. Turns out before then it was "rugby", and oh lord is that better...|
 
-![Lego Scrum](images/scrum-thumb.jpg)
-
-I've always thought scrum was a lousy metaphor. A "scrum" is two packs colliding and attempting to push each other backwards. Turns out before then it was "rugby", and oh lord is that better...
-
-### end heresy
-
-Extreme programming was two.
+Extreme programming was two years old.
 
 The Psychology of Computer Programming by Gerald Weinburg was already 30. (His concept of ego-less programming is ace.)
 
