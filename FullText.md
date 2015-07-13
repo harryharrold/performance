@@ -84,7 +84,7 @@ Otherwise you lose the team ethos and shared responsibility that makes good soft
 | You can't body-shop an agile team. You recuit by skills, sure. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised." A team is not a collection of individuals. |
 
 
-An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communciations that intermediate such that nobody gives their anyone their full attention. Keeping that team ehtos together when you're remote is difficult, but it's not impossible. It's hindered by pointless adherence to process too. 
+An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communications that intermediate such that nobody gives their anyone their full attention. Keeping that team ethos together when you're remote is difficult, but it's not impossible. It's hindered by pointless adherence to process too. 
 
 
 | Heresy: Please, for the love of god, shut up. |
@@ -92,7 +92,7 @@ An agile team is inter-disciplinary team made out of specialists who have respec
 |  ![Team GB](images/7747526978-thumb.jpg) |
 I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know what you are doing, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know. |
 
-We have, however, come to value processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy.
+We have, however, come to value processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy. Stand-ups, prototyping, CLI... "Information radiators" Dashboards. 
 
 | Heresy: Post-it (tm) notes not a panacea. |
 |----- | 
