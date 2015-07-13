@@ -151,7 +151,7 @@ However, it still talks to a bipartite relationship. That's not good enough beca
 
 In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
 
-  As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)|
+```As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)```
 
 ![happy people](images/16094729617-thumb.jpg)
 
