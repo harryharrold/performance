@@ -33,7 +33,7 @@ Obviously.
 
 ![it's an engineer. IT is happening](images/6833649749-thumb.jpg)
 
-Set the Manifesto in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT crowd. Imagine a world before the IT crowd. 
+Set the Manifesto in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, if they read Time magazine. In 2001 there was no Minecraft, there was no Big Bang Theory, no IT Crowd. I'll say that again. A world before the ![IT Crowd.](https://www.youtube.com/user/ITCrowdChannel)
 
 ![MinecraftCarta](images/13508901354-thumb.jpg)
 
