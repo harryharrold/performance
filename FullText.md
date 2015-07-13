@@ -165,11 +165,6 @@ Our triangle here is between customer - team - user, with those 2 apexes. We fin
 
 Following. Not "being enslaved by..."  or "adhering to in the face of all rational evidence to the contrary", or, indeed "having any semblance of"...
 
-| Heresy: We don't need a plan. We're agile. |
-| ----- |
-| ![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg) |
-| You are giving us a bad name. :-) Stop it. Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. |
-
 ![all gone wrong](images/5527716890-thumb.jpg) 
 
 Here's a situation:
@@ -179,6 +174,11 @@ There's a feature, and it has a user story, in the conversations which formed th
 ![Einstein writes a user story. It's got acceptance criteria.](images/567753250-thumb.jpg)
 
 At this point someone remembers to add some acceptance criteria, or a definition of done, or somesuch. There's an obvious moment of danger here, the story wasn't prescriptive, but it is much easier for prescriptions to creep into acceptance criteria. But it might be that adding the acceptance criteria at all was the danger. It is hard to write good user stories; writing good acceptance criteria is harder still, since they approach functional specification - which as we all know exists in a quantum state fluctuating between impossibility and futility.
+
+| Heresy: We don't need a plan. We're agile. |
+| ----- |
+| ![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg) |
+| You are giving us a bad name. :-) Stop it. Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. |
 
 Next off some development gets done, some snags arise, approaches are attempted and discarded, conversations are had. All good.
 
