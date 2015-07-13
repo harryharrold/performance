@@ -149,6 +149,13 @@ It doesn't even articulate the complexity within a customer organisation: within
 
 However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. The users. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
+| Heresy: User stories that really aren't. I mean really.|
+| ----- |
+|In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:|
+
+|    As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)|
+
+
 ![happy people](images/16094729617-thumb.jpg)
 
 It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software. Users. 
@@ -241,12 +248,4 @@ Distribute power, don't re-position it. (Remember not to swop the tyranny of pro
 If you can balance those, then you're doing very well indeed.
 
 And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. We've binned our efforts at creating a new manifesto, and suggest you do too.
-
-
-### A post-script.
-
-"In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
-
-    As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)
-
 
