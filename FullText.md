@@ -41,18 +41,18 @@ What are the apocrypha? Well, they are those texts which were around at the same
 
 ![Text? A library](images/4335376117-thumb.jpg)
 
+Extreme programming was two years old.
+
+The [Psychology of Computer Programming](http://www.amazon.co.uk/The-Psychology-Computer-Programming-Anniversary/dp/0932633420) by Gerald Weinburg was already 30. (Go read that. His concept of ego-less programming is ace.)
+
+The essay [cathedral and bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/) by Eric S. Raymond was four.
+
 Scrum was fifteen years old. (Yes, we were surprised too. The word itself was six or seven years old.)
 
 | A Heresy: Scrum is a lousy metaphor. |
 |----- |
 | ![Lego Scrum](images/scrum-thumb.jpg) |
 | A scrum is two packs, two groups of people, colliding and attempting to push each other backwards. That is not a good metaphor for constructive engagement. Turns out before then it was "rugby", and oh lord is that better... |
-
-Extreme programming was two years old.
-
-The [Psychology of Computer Programming](http://www.amazon.co.uk/The-Psychology-Computer-Programming-Anniversary/dp/0932633420) by Gerald Weinburg was already 30. (Go read that. His concept of ego-less programming is ace.)
-
-The essay [cathedral and bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/) by Eric S. Raymond was four.
 
 ## Individuals and interactions over processes and tools
 
