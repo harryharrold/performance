@@ -3,7 +3,7 @@
 > "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing
 > agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
 
-Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. Oh, the heresies we will show you. Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile, or at least one of the many fascinating things, is how many people who practise it have read so little about it. Us, for example. I/Harry was at a session at UKGovcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto.
+Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies.  Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile practises, or at least one of the many fascinating things, is how many people who practise them have read so little about them. Us, for example. I/Harry was at a session at UKGovcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto.
 
 So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
@@ -13,7 +13,7 @@ So we could start with a survey, and end with an entirely new manifesto, for sur
 
 I mean, it rocks, it really does. It's ace. You need to go back and read it. 
 
-We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really my thing, and we given we disciples promise to question, criticise and iterate we'd be letting the prophets down if we didn't. So here goes.
+We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really my thing, and we given we disciples promise to question, criticise and iterate we'd be letting the prophets down if we didn't. So here goes. A new precis.
 
 > "Harry and Rupert critically re-examine the agile manifesto in the light of their working with people “doing agile”,
 > vaguely alluding to the cults, sects and heresies they’ve encountered and mostly dodging the responsibility of formulating
