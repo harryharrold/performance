@@ -147,19 +147,29 @@ We're a commercial company. We have customers. We like to have happy customers. 
 
 It doesn't even articulate the complexity within a customer organisation: within the customers' departments, their internal politics, their varied opinions. Even within a "customer" organisation, you are in a multi-party world. If you squint, and you are an external agency, and you have a strong product owner in the customer it's close. Maybe it's simply that, actually. maybe it's the sordid commercial accent on customer, and those in that world have a more sophisticated view of what a customer might be than we do. It's that assumption of supplierness where many more business are now than were in 2001 beginning to  understand themselves as software companies: as providers of computerised interfaces to other organisations.
 
-However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. The users. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
+However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. The users. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, but we believe it to be essential. 
 
 In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
 
 ```As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)```
 
+...so that user stories do not become "requirements-by-stealth."
+
 ![happy people](images/16094729617-thumb.jpg)
 
-It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software. Users. 
+It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software. Users. Without keeping them front and central, we do not believe we will make the best software we can. Without listening to their feedback and endeavouring to understand their needs, we will not solve their problems.
 
 Our triangle here is between customer - team - user, with those 2 apexes. We find our best work where we're closest to the middle of that triangle.
 
+So...
+
 ### We value collaborative delivery over contract negotiation. 
+
+And we add to that...
+
+### Something something something users something something
+
+Adding to the Manifesto. Proper heresy. We'll work out some better words later.
 
 ## Responding to change over following a plan
 
@@ -230,6 +240,7 @@ A manifesto for our software development.
 * Team interactions over processes and tools
 * Useful software _before_ comprehensive documentation
 * Collaborative delivery over contract negotiation. 
+* Something something something users something something
 * Embracing change over following a plan.
 
 If we have any wisdom at all, any slight heresy to proclaim as new orthodoxy, then it is these two:
